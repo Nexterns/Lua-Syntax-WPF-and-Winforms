@@ -1,2 +1,2 @@
-# Lua-Syntax-WPF-and-Winforms
-This is a simple Syntax made for highlighting lua
+# Lua Syntax WPF and Winforms
+Heads up dont credit me you a skid
